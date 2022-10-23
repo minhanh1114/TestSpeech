@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(68, 67, 65);
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+#voiceselection{
+    width: 400px;
+    height: 30px;
+    background-color: rgb(75, 74, 78);
+}
